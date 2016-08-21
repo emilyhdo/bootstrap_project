@@ -4,3 +4,13 @@
 	background-size: cover;
 	height: 200px;
 }
+
+.services section{
+	text-align: center;
+}
+
+.icon{
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+}
